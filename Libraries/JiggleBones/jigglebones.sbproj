@@ -3,11 +3,13 @@
   "Type": "library",
   "Org": "facepunch",
   "Ident": "jigglebones",
-  "Tags": null,
   "Schema": 1,
+  "IncludeSourceFiles": false,
   "Resources": null,
   "PackageReferences": [],
   "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
   "Metadata": {
     "CsProjName": ""
   }
